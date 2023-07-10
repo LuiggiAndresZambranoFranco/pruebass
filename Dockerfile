@@ -12,4 +12,3 @@ ENV PORT=5000
 
 CMD [ "node", "dist/main"]
 
-#comentarios
