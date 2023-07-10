@@ -23,7 +23,7 @@ jobs:
 #tomando en cuenta los patrones y el formato. Major y feat son palabras que en este caso
 #serían reservadas para su commit y debe utilizarla dependiendo del caso.
     - name: Git Semantic Version
-      uses: paulhatch/semantic-version@v5.0.2
+      uses: paulhatch/semantic-version@v4.0.3
       with:
         major_pattern: "major:"
         minor_pattern: "feat:"
